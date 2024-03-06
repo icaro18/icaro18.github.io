@@ -7,7 +7,7 @@ div {
   height: 100px;
   background-color: red;
   animation-name: example;
-  animation-duration: 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999s;
+  animation-duration: 1000s;
 }
 
 @keyframes example {
