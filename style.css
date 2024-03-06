@@ -1,16 +1,17 @@
 body {
   background-color: rgb black;
-  color: lime;
+  color: rgb(255, 255, 255);
 }
 div {
   width: 100px;
   height: 100px;
   background-color: red;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999s;
 }
 
 @keyframes example {
   from {background-color: red;}
   to {background-color: yellow;}
+
 }
