@@ -4,10 +4,10 @@ body {
 }
 div {
   width: 100px;
-  height: 100px;
-  background-color: red;
+  height: 50px;
+  background-color: blue;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 5s;
 }
 
 @keyframes example {
