@@ -1,5 +1,5 @@
 body {
-  background-color: rgb black;
+  background-color: black;
   color: rgb(255, 255, 255);
 }
 div {
@@ -11,7 +11,7 @@ div {
 }
 
 @keyframes example {
-  from {background-color: red;}
-  to {background-color: yellow;}
+  from {background-color: blue;}
+  to {background-color: green;}
 
 }
