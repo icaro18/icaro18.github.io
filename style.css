@@ -2,13 +2,6 @@ body {
   background-color: black;
   color: rgb(255, 255, 255);
 }
-div {
-  width: 100px;
-  height: 50px;
-  background-color: blue;
-  animation-name: example;
-  animation-duration: 5s;
-}
 
 @keyframes example {
   from {background-color: blue;}
@@ -16,11 +9,8 @@ div {
 
 }
 
-row{
- padding: 10 px;
- margin: 10 px; 
-}
+
 img{
-  width="100 px";
-  height="100 px";
+  width:50px;
+  height:50px;
 }
