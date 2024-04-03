@@ -3,11 +3,7 @@ body {
   color: rgb(255, 255, 255);
 }
 
-@keyframes example {
-  from {background-color: blue;}
-  to {background-color: green;}
 
-}
 
 img{
   width:50px;
