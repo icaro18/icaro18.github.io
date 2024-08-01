@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ir ao parque",
-                afirmacao: "Putzz, no meio do caminho encontrou o grande vilão Ratão!   Vilão Ratão- Chegou a hora da sua morte!!"
+                afirmacao: "Putzz, no meio do caminho encontrou o grande Vilão Ratão!   Vilão Ratão: - Chegou a hora da sua morte!!"
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Ir na sorveteira do Ramon",
+                afirmacao: "Quando você chega na sorveteira, encontra Dynamite, Senhor do Fogo,   Dynamite: - Eu vou aumentar a temperatura do mundo, mais tanto, mais tanto, mais tanto que nenhum sorvete na face da terra existirá, será tudo apenas LEITE MORNOOO, HAHAHAHAH!!!"
             }
         ]
     },
