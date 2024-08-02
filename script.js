@@ -6,28 +6,28 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Capitão Blessed quer sair de casa!",
+        enunciado: "Capitão Blessed quer sair de casa, dar um passeio, e decide ir a Drinks In Ice, sorveteria do senhor Ramon.   Chegando lá vê enormes labaredas de fogo saindo dela, e avista o seu causador, é o infame Dynamight, O Senhor do Fogo, e ele anuncia para quem o estiver ouvindo. - Vocês nunca mais conseguirão tomar sorvete, apenas o pote e a colher sobrarão, eu vou aquecer tanto, mais tanto, tanto que nenhum sorvete sobrará neste planeta!!! MMUUAAAHAHAHAHAHAHA!!!   Atira sua visão de calor em um dos frezzers e o derrete ZZZZZEEEEEE!!! (som de raio lazer) BLUB BLOB BLOARC BLUEHG (sons de derretimento)    ???? - IIIIHHHHH ala, não mexe com o meu sorvete não meu parcero. TUM TUM TUM TUM (som de pisadas fortes e rapidas)",
         alternativas: [
             {
-                texto: "Ir ao parque",
-                afirmacao: "Putzz, no meio do caminho encontrou o grande Vilão Ratão!   Vilão Ratão: - Chegou a hora da sua morte!!"
+                texto: "Acertar uma voadeira no vilão",
+                afirmacao: "Capitão Blessed enxerga o vilão e seus atos malignos, e corre com toda sua vontade para cima dele, salta e acerta uma voadeira em cheio, bem no peito de Dynamight!!!  O vilão é empurrado para trás e cai no chão, fica deitado por um tempo, zonzo no chão, tentando recuperar seu fôlego, e se recupera com o passar do tempo. "
             },
             {
-                texto: "Ir na sorveteira do Ramon",
-                afirmacao: "Quando você chega na sorveteira, encontra Dynamite, Senhor do Fogo,   Dynamite: - Eu vou aumentar a temperatura do mundo, mais tanto, mais tanto, mais tanto que nenhum sorvete na face da terra existirá, será tudo apenas LEITE MORNOOO, HAHAHAHAH!!!"
+                texto: "Acertar uma rasteira no vilão",
+                afirmacao: "Capitão Blessed enxerga o vilão e seus atos malignos, e corre com toda sua vontade para cima dele, tenta resbalar para acertar a rasteira, mas o piso é antiderrapante Blessed se rala um pouco, Dynamight percebe sua presença e então defere algumas flechas de chama em sua direção FUP FUP FUP (som de flechas sendo atiradas), uma delas o acerta no braço FINCHT (som de flecha cravando), Blessed sente seu sangue arder, pressiona o braço e usa seus poderes de cura divinos, o fogo se apaga e ele se prepara para a luta. "
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Enfurecido, Dynamight pergunta,    - QUEM É VOCÊ!!?? O QUE FAZ AQUI!!?? Pare de me atrapalhar seu intrometido!! Ou quer ser incinerado? (acende uma chama no dedo indicador)    - Eu sou a sorte divina e um grande amante de sorvete, portanto se afaste daqui e de todos os outros sorvetes enquanto ainda consegue (fica em posição de batalha). ",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Blessed pede uma espada de luz ao seu Anjo da Guarda",
+                afirmacao: "Ao ouvir as preçes de Blessed, o anjo concede a espada, Blessed parte para cima e golpeia, porém havia sorvete no chão, e não seria nesse dia que ele pisaria em um, ele faz uma nova rota, desvia do sorvete e no momento em que prestou atenção no sorvete, caiu na aramdilha de Dynamight, afinal, foi ele quem jogou o sorvete no chão esperando que Blessed desviasse, e nesse desvio, Blessed parou direto no punho acelerado e envolvido por chamas, é arremessado em direção as janelas e as quebra CRACKT (som da janela quebrando). Com esse golpe ele vai parar fora da sorveteria, com alguma dificuldade Blessed se levanta, com o ouvido zunindo e o ombro esquerdo dolorido."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Blessed pede um machado de luz ao seu anjo da guarda ",
+                afirmacao: "Ao ouvir as preçes de Blessed, o anjo concede o machado, uma lado com lâmina e o outro um martelo, Blessed arremessa uma casquinha de sorvete no vilão, acertando seu rosto, como o vilão odeia frio, fica se debatendo em desespero para se limpar, o que cria a oportunidade perfeita para Blessed, que golpeia com o lado do martelo na barriga, e Dynamight é arremessado para o teto, assim, batendo e voltando. Com dificuldade, Dynamight se recupera aos poucos, respira fundo e solta um grito ensurdecedor de ira UUUUUUUUHHHHHHHHGGGGGGG!!! E então seu corpo fica com chamas maiores e mais intensas.  "
             }
         ]
     },
