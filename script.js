@@ -26,7 +26,7 @@ const perguntas = [
                 afirmacao: "Ao ouvir as preçes de Blessed, o anjo concede a espada, Blessed parte para cima e golpeia, porém havia sorvete no chão, e não seria nesse dia que ele pisaria em um, ele faz uma nova rota, desvia do sorvete e no momento em que prestou atenção no sorvete, caiu na aramdilha de Dynamight, afinal, foi ele quem jogou o sorvete no chão esperando que Blessed desviasse, e nesse desvio, Blessed parou direto no punho acelerado e envolvido por chamas, é arremessado em direção as janelas e as quebra CRACKT (som da janela quebrando). Com esse golpe ele vai parar fora da sorveteria, com alguma dificuldade Blessed se levanta, com o ouvido zunindo e o ombro esquerdo dolorido."
             },
             {
-                texto: "Blessed pede um machado de luz ao seu anjo da guarda ",
+                texto: "Blessed pede um machado de luz ao seu Anjo da Guarda ",
                 afirmacao: "Ao ouvir as preçes de Blessed, o anjo concede o machado, uma lado com lâmina e o outro um martelo, Blessed arremessa uma casquinha de sorvete no vilão, acertando seu rosto, como o vilão odeia frio, fica se debatendo em desespero para se limpar, o que cria a oportunidade perfeita para Blessed, que golpeia com o lado do martelo na barriga, e Dynamight é arremessado para o teto, assim, batendo e voltando. Com dificuldade, Dynamight se recupera aos poucos, respira fundo e solta um grito ensurdecedor de ira UUUUUUUUHHHHHHHHGGGGGGG!!! E então seu corpo fica com chamas maiores e mais intensas.  "
             }
         ]
