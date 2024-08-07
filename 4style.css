@@ -1,0 +1,10 @@
+:root{
+    --cor-destaque:#44ff00;
+}
+
+
+
+
+h1{
+    color: var(--cor-destaque);
+}
